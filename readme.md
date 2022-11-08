@@ -2,8 +2,6 @@
 ```
 教育部先進資通安全實務人才培育計畫
 校園資安深耕營Advanced Happy CyberSecurity Day
-教育部先進資通安全實務人才培育計畫
-校園資安深耕營Advanced Happy CyberSecurity Day
 
 課程名稱：現代密碼及其破密分析
 
