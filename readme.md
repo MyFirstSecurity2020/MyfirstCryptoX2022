@@ -41,6 +41,16 @@
 
 
 
+# [CTF平台]
+|主題|網址|
+|:----:|:------|
+|CRYPTO-North-CTF|[平台連結](http://)|
+|CRYPTO-Middle-CTF|[平台連結](http://)|
+|CRYPTO-South-CTF|[平台連結](http://)|
+```
+平台開放時間：12月3日09:00~12月5日17:00
+一人一隊，請自行註冊(並請記得註冊EMAIL需與報名EMAIL相同以供驗證核發證書使用)
+
 
 # 課程簡報下載[12/5 17:00將刪除連結]
 [上午](https://github.com/MyFirstSecurity2020/MyfirstCryptoX2022/blob/main/%E7%8F%BE%E4%BB%A3%E5%AF%86%E7%A2%BC%E5%8F%8A%E5%85%B6%E7%A0%B4%E5%AF%86%E5%88%86%E6%9E%90%E8%AA%B2%E7%A8%8B%E7%B0%A1%E5%A0%B1-%E4%B8%8A%E5%8D%88.pdf)
