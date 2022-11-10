@@ -1,4 +1,1 @@
-References
-- https://stackoverflow.com/questions/24383700/resize-image-in-the-wiki-of-github-using-markdown
-
-<img src="images/cover.png" alt="Cover" width="50%"/>
+![1203-1204](https://user-images.githubusercontent.com/104486900/201089564-9847df93-a26c-490d-b6fb-f6279f29ac19.png)
