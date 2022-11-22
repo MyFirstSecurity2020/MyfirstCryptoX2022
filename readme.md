@@ -1,9 +1,9 @@
 # Discord課程聊天室
 ```
 學員可以聊天室上互相提問學習(講師也會不定時上線)
-|北區討論區|[平台連結](https://discord.gg/TvPuQPHC)|
-|中區討論區|[平台連結](https://discord.gg/yDC5YhPQ)|
-|南區討論區|[平台連結](https://discord.gg/MUSxM6rE)|
+[北區討論區](https://discord.gg/TvPuQPHC)|
+[中區討論區](https://discord.gg/yDC5YhPQ)|
+[南區討論區](https://discord.gg/MUSxM6rE)|
 ```
 
 
