@@ -48,9 +48,9 @@ https://forms.gle/ivgncxrP6x27ttuz9
 # [CTF平台]
 |主題|網址|
 |:----:|:------|
-|CRYPTO-North-CTF|[平台連結](http://)|
-|CRYPTO-Middle-CTF|[平台連結](http://)|
-|CRYPTO-South-CTF|[平台連結](http://)|
+|CRYPTO-North-CTF|[平台連結](http://140.110.112.213)|
+|CRYPTO-Middle-CTF|[平台連結](http://140.110.112.217)|
+|CRYPTO-South-CTF|[平台連結](http://140.110.112.219)|
 ```
 平台開放時間：12月3日09:00~12月5日17:00
 一人一隊，請自行註冊(並請記得註冊EMAIL需與報名EMAIL相同以供驗證核發證書使用)
