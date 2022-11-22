@@ -1,7 +1,9 @@
-# [Discord課程聊天室](https://discord.gg/)
+# Discord課程聊天室
 ```
 學員可以聊天室上互相提問學習(講師也會不定時上線)
-https://discord.gg/
+[北區討論區](https://discord.gg/)
+[中區討論區](https://discord.gg/)
+[南區討論區](https://discord.gg/)
 ```
 
 
