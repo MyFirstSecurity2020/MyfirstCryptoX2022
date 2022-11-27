@@ -1,10 +1,10 @@
 # Discord課程聊天室
-```
 學員可以聊天室上互相提問學習(講師也會不定時上線)
-[北區討論區](https://discord.gg/TvPuQPHC)
-[中區討論區](https://discord.gg/yDC5YhPQ)
-[南區討論區](https://discord.gg/MUSxM6rE)
-```
+|討論區|連結|
+|:----:|:------:|
+|北區討論區|[討論區連結](https://discord.gg/TvPuQPHC)|
+|中區討論區|[討論區連結](https://discord.gg/yDC5YhPQ)|
+|南區討論區|[討論區連結](https://discord.gg/MUSxM6rE)|
 
 
 # MyfirstCryptoX2022
@@ -35,6 +35,8 @@
 ✪主辦單位：教育部先進資通安全實務人才培育計畫推動辦公室、崑山科技大學、國立宜蘭大學、國立臺中工業高級中等學校
 ✪聯絡窗口：胡小姐 / E-mail：mhhu@ems.niu.edu.tw或洽FB粉絲頁(高中職生資安研習營)
 ```
+
+
 # 12月3日(六)-12月4日(日)課程表
 ![1203-1204](https://user-images.githubusercontent.com/104486900/201089564-9847df93-a26c-490d-b6fb-f6279f29ac19.png)
 
@@ -45,9 +47,10 @@
 https://forms.gle/ivgncxrP6x27ttuz9
 ```
 
+
 # [CTF平台]
-|CTF平台|網址|
-|:----:|:------|
+|CTF平台|連結|
+|:----:|:------:|
 |CRYPTO-North-CTF|[平台連結](http://140.110.112.213)|
 |CRYPTO-Middle-CTF|[平台連結](http://140.110.112.217)|
 |CRYPTO-South-CTF|[平台連結](http://140.110.112.219)|
