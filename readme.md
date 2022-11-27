@@ -26,9 +26,8 @@
 (2)pwntools下載網址 https://github.com/Gallopsled/pwntools
 
 學員證書發放說明：
-(1)學員需完成指定題目達14題以上。
-(2)證書只提供給具本國籍國中高中職五專在學學生。
-(3)大學生不提供學習證書。
+(1)指定題目將於講師討論後於12/9(五)公告。
+(2)證書僅提供給具本國籍國中高中職五專在學學生，大學生不提供學習證書。
 (4)本主辦單位保有最終修改、變更、活動解釋及取消之權利。
 
 ✪指導單位：教育部資訊及科技教育司
@@ -49,15 +48,15 @@ https://forms.gle/ivgncxrP6x27ttuz9
 
 
 # [CTF平台]
+```
+平台開放時間：12月3日09:00~12月5日17:00
+一人一隊，請自行註冊(並請記得註冊EMAIL需與報名EMAIL相同以供驗證核發證書使用)
+```
 |CTF平台|連結|
 |:----:|:------:|
 |CRYPTO-North-CTF|[平台連結](http://140.110.112.213)|
 |CRYPTO-Middle-CTF|[平台連結](http://140.110.112.217)|
 |CRYPTO-South-CTF|[平台連結](http://140.110.112.219)|
-```
-平台開放時間：12月3日09:00~12月5日17:00
-一人一隊，請自行註冊(並請記得註冊EMAIL需與報名EMAIL相同以供驗證核發證書使用)
-```
 
 
 # 課程簡報下載[12/5 17:00將刪除連結]
@@ -81,24 +80,14 @@ https://www.youtube.com/watch?v=dU00xYH3i3E
 # 非經取得本單位或講者授權，不得任意轉載或公開傳輸
 
 ## 影片連結
-|章節名稱|影片連結|
-|:------|:-------------|
-|(CH1)Program Structure + Security Option|https://youtu.be/ZraMzBnT-94|
-|(CH2)Tools|https://youtu.be/DZ8c81Gck2k|
-|(CH3-1)Bof - Local Variable|https://youtu.be/UmLr0_B6yqc|
-|(CH3-2)Bof - Local Variable|https://youtu.be/UqqqxYYeGXA|
-|(CH4-1)Bof - ret2code|https://youtu.be/Db_BQsv9MmA|
-|(CH4-2)Bof - ret2code|https://youtu.be/9wvb09WNwn0|
-|(CH5-1)Bof - ret2sc|https://youtu.be/VABqxI20ySE|
-|(CH5-2)Bof - ret2sc|https://youtu.be/KKZ8YkSSb8I|
-|(CH6-1)Bof - ret2libc|https://youtu.be/lR0-nQpX56c|
-|(CH6-2)Bof - ret2libc|https://youtu.be/H21YofSTazY|
-|(CH7-1)ROP|https://youtu.be/EsbUdf0_EY8|
-|(CH7-2)ROP|https://youtu.be/XsC5GxYGUmU|
-|(CH8-1)Format String|https://youtu.be/vfHs9kxh0_A|
-|(CH8-2)Format String|https://youtu.be/kgA2ZNpwic4|
-|(CH8-3)Format String|https://youtu.be/-0dYnQtMjBU|
-|(CH8-4)Format String|https://youtu.be/RGalgUT2VFM|
+|章節|影片|片長|影片連結|
+|:----:|:------|:----:|:-------------|
+|Ch0|Introduction|14:49|:-------------|
+|CH1-1|BlockCipher|28:19|https://youtu.be/WAxoWwf2k4M|
+|CH1-2|LAB_CBC_講解題目|5:41|:-------------|
+|CH1-3|CH0_Introduction|14:49|:-------------|
+|CH1-4|CH0_Introduction|14:49|:-------------|
+
 
 
 # [12月17日(六)13:00線上簽到與難題解說與Q&A直播]
@@ -121,8 +110,8 @@ https://www.youtube.com/watch?v=dU00xYH3i3E
 
 # [指定題目]
 ```
-(1)(更新)任選14題題目完成即可進行證書發放審查。
-(2)解題截止時間：12/5(一) 19:00
+(1)解題題數標準將於12/9(五)公告，達到解題標準題數即可進行證書發放審查。
+(2)解題截止時間：12/5(一) 19:00。
 
 01. AIS3_Pre_exam_2015-Crypto2
 02. CBC
