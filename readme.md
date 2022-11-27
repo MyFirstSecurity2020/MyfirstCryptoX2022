@@ -84,17 +84,34 @@ https://www.youtube.com/watch?v=dU00xYH3i3E
 |:----:|:------|:----:|:-------------|
 |Ch0|Introduction|14:49|:-------------|
 |CH1-1|BlockCipher|28:19|https://youtu.be/WAxoWwf2k4M|
-|CH1-2|LAB_CBC_講解題目|5:41|:-------------|
-|CH1-3|CH0_Introduction|14:49|:-------------|
-|CH1-4|CH0_Introduction|14:49|:-------------|
-
+|CH1-2|LAB CBC 題目講解|5:41|:-------------|
+|CH1-3|LAB CBC 解題|12:46|:-------------|
+|CH1-4|StreamCipher|18:17|:-------------|
+|CH1-5|LAB OWO 題目講解|18:17|:-------------|
+|CH1-6|LAB OWO 解題|18:17|:-------------|
+|CH2-1|非對稱式加密|18:17|:-------------|
+|CH2-2|非對稱式 解題|18:17|:-------------|
+|CH2-3|RSA攻擊|18:17|:-------------|
+|CH2-4|費馬講解 & LAB RSA Factorization 解題|18:17|:-------------|
+|CH2-5|費馬解題|18:17|:-------------|
+|CH2-6|SmoothPrime|18:17|:-------------|
+|CH2-7|SmoothPrime(補充) & LAB Smooth Prime 解題|18:17|:-------------|
+|CH2-8|YANG 2|18:17|:-------------|
+|CH2-9|Common Modulus 講解 & LAB YANG_RSA-4 解題|18:17|:-------------|
+|CH2-10|Common Modulus 解題 & LAB CRT 講解|18:17|:-------------|
+|CH2-11|CRT 講解 & LAB Chinese Remainder Theorem|18:17|:-------------|
+|CH2-12|CRT 解題|18:17|:-------------|
+|CH3-1|Hash & HW Hash Encrypt|18:17|:-------------|
+|CH3-2|解題|18:17|:-------------|
+|CH3-3|LEA|18:17|:-------------|
+|CH3-4|LEA解題 & LAB OWO_Apple Shop 解題|18:17|:-------------|
 
 
 # [12月17日(六)13:00線上簽到與難題解說與Q&A直播]
 ```
-(1)請學員至[簽到表](https://)簽到，謝謝
+(1)請學員至[簽到表]簽到，謝謝
 (2)12:50開放進入會議室。
-(3)會議連結：https://。 
+(3)會議連結：將於12/15(四)公告。 
 ```
 
 
@@ -113,15 +130,15 @@ https://www.youtube.com/watch?v=dU00xYH3i3E
 (1)解題題數標準將於12/9(五)公告，達到解題標準題數即可進行證書發放審查。
 (2)解題截止時間：12/5(一) 19:00。
 
-01. AIS3_Pre_exam_2015-Crypto2
-02. CBC
-03. Chinese Remainder Theorem
-04. ECB
-05. LCG
-06. OWO_Nonsense-Machine
-07. OWO_Apple Shop
-08. Padding Oracle
-09. RSA 後門 (1)
+01. CBC
+02. OWO_Nonsense-Machine
+03. RSA 後門 (1)
+04. YANG_RSA-1
+05. AIS3_Pre_exam_2015-Crypto2
+06. RSA Factorization
+07. Smooth_Prime
+08. YANG_RSA-2
+09. YANG_RSA-4
 10. Simplest_ECC
 11. Smooth_Prime
 12. YANG_RSA-1
@@ -129,5 +146,8 @@ https://www.youtube.com/watch?v=dU00xYH3i3E
 14. YANG_RSA_4
 15. common_factor_attack_rsa
 16. RSA Factorization
-17. babyDSA (直播解題)
+17. OWO_Apple Shop
+Hash Try
+Low exponent
+randseed
 ```
