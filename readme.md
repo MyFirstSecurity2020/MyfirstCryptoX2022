@@ -82,29 +82,29 @@ https://www.youtube.com/watch?v=dU00xYH3i3E
 ## 影片連結
 |章節|影片|片長|影片連結|
 |:----:|:------|:----:|:-------------|
-|Ch0|Introduction|14:49|:-------------|
-|CH1-1|BlockCipher|28:19|https://youtu.be/WAxoWwf2k4M|
-|CH1-2|LAB CBC 題目講解|5:41|:-------------|
-|CH1-3|LAB CBC 解題|12:46|:-------------|
-|CH1-4|StreamCipher|18:17|:-------------|
-|CH1-5|LAB OWO 題目講解|18:17|:-------------|
-|CH1-6|LAB OWO 解題|18:17|:-------------|
-|CH2-1|非對稱式加密|18:17|:-------------|
-|CH2-2|非對稱式 解題|18:17|:-------------|
-|CH2-3|RSA攻擊|18:17|:-------------|
-|CH2-4|費馬講解 & LAB RSA Factorization 解題|18:17|:-------------|
-|CH2-5|費馬解題|18:17|:-------------|
-|CH2-6|SmoothPrime|18:17|:-------------|
-|CH2-7|SmoothPrime(補充) & LAB Smooth Prime 解題|18:17|:-------------|
-|CH2-8|YANG 2|18:17|:-------------|
-|CH2-9|Common Modulus 講解 & LAB YANG_RSA-4 解題|18:17|:-------------|
-|CH2-10|Common Modulus 解題 & LAB CRT 講解|18:17|:-------------|
-|CH2-11|CRT 講解 & LAB Chinese Remainder Theorem|18:17|:-------------|
-|CH2-12|CRT 解題|18:17|:-------------|
-|CH3-1|Hash & HW Hash Encrypt|18:17|:-------------|
-|CH3-2|解題|18:17|:-------------|
-|CH3-3|LEA|18:17|:-------------|
-|CH3-4|LEA解題 & LAB OWO_Apple Shop 解題|18:17|:-------------|
+|Ch0|Introduction|14:49||
+|CH1-1|BlockCipher|28:19||
+|CH1-2|LAB CBC題目講解|5:41||
+|CH1-3|LAB CBC解題|12:46||
+|CH1-4|StreamCipher|18:17||
+|CH1-5|LAB題目講解|3:53||
+|CH1-6|LAB OWO解題流程|11:33||
+|CH2-1|非對稱式加密|56:53||
+|CH2-2|非對稱式解題|13:28||
+|CH2-3|RSA攻擊|12:17||
+|CH2-4|費馬因式分解題目|4:15||
+|CH2-5|費馬因式分解解題|7:40||
+|CH2-6|SmoothPrime講解+解題|17:04||
+|CH2-7|SmoothPrime(補充)|2:55||
+|CH2-8|E的問題+Yang2講解|15:1||
+|CH2-9|Common Modulus講解|5:49||
+|CH2-10|Common Modulus解題|6:49||
+|CH2-11|CRT講解+題目講解|9:51||
+|CH2-12|CRT解題|2:37||
+|CH3-1|Hash|16:49||
+|CH3-2|Hash解題|6:2||
+|CH3-3|LEA+題目講解|17:19||
+|CH3-4|LEA ATTACK解題|9:39||
 
 
 # [12月17日(六)13:00線上簽到與難題解說與Q&A直播]
@@ -139,15 +139,10 @@ https://www.youtube.com/watch?v=dU00xYH3i3E
 07. Smooth_Prime
 08. YANG_RSA-2
 09. YANG_RSA-4
-10. Simplest_ECC
-11. Smooth_Prime
-12. YANG_RSA-1
-13. YANG_RSA-2
-14. YANG_RSA_4
-15. common_factor_attack_rsa
-16. RSA Factorization
-17. OWO_Apple Shop
-Hash Try
-Low exponent
-randseed
+10. Chinese Remainder Theorem
+11. Hash Encrypt
+12. OWO_Apple Shop
+13. Hash Try
+14. Low exponent
+15. randseed
 ```
