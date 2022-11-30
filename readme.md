@@ -2,9 +2,9 @@
 學員可以聊天室上互相提問學習(講師也會不定時上線)
 |討論區|連結|
 |:----:|:------:|
-|北區討論區|[討論區連結](https://discord.gg/TvPuQPHC)|
-|中區討論區|[討論區連結](https://discord.gg/yDC5YhPQ)|
-|南區討論區|[討論區連結](https://discord.gg/MUSxM6rE)|
+|北區討論區|[討論區連結](https://discord.gg/CgpR3m6QZy)|
+|中區討論區|[討論區連結](https://discord.gg/A5W8fKWNQu)|
+|南區討論區|[討論區連結](https://discord.gg/8P2Cb2cZGd)|
 
 
 # MyfirstCryptoX2022
@@ -40,10 +40,9 @@
 ![1203-1204](https://user-images.githubusercontent.com/104486900/201089564-9847df93-a26c-490d-b6fb-f6279f29ac19.png)
 
 
-# [課程問題提問表單](https://forms.gle/ivgncxrP6x27ttuz9)
+# [課程問題提問表單](https://forms.gle/6o4VciDniXnuPj1B8)
 ```
-學員對課程上或解題上有任何問題的可以在表單上提問直播時講師會解答
-https://forms.gle/ivgncxrP6x27ttuz9
+學員對課程上或解題上有任何問題的可以在表單上提問直播時講師會解答，[提問表單連結](https://forms.gle/6o4VciDniXnuPj1B8)
 ```
 
 
