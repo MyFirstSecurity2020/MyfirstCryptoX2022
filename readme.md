@@ -54,9 +54,9 @@
 ```
 |CTF平台|連結|
 |:----:|:------:|
-|CRYPTO-North-CTF|12/3開放|
-|CRYPTO-Middle-CTF|12/3開放|
-|CRYPTO-South-CTF|12/3開放|
+|CRYPTO-North-CTF|http://140.110.112.213|
+|CRYPTO-Middle-CTF|http://140.110.112.217|
+|CRYPTO-South-CTF|http://140.110.112.219|
 
 
 # 課程簡報下載[12/5 17:00將刪除連結]
@@ -82,29 +82,29 @@ https://www.youtube.com/watch?v=dU00xYH3i3E
 ## 影片連結
 |章節|影片|片長|影片連結|
 |:----|:------|:----|:-------------|
-|Ch0|Introduction|14:49|12/3開放|
-|CH1-1|BlockCipher|28:19|12/3開放|
-|CH1-2|LAB CBC題目講解|5:41|12/3開放|
-|CH1-3|LAB CBC解題|12:46|12/3開放|
-|CH1-4|StreamCipher|18:17|12/3開放|
-|CH1-5|LAB題目講解|3:53|12/3開放|
-|CH1-6|LAB OWO解題流程|11:33|12/3開放|
-|CH2-1|非對稱式加密|56:53|12/3開放|
-|CH2-2|非對稱式解題|13:28|12/3開放|
-|CH2-3|RSA攻擊|12:17|12/3開放|
-|CH2-4|費馬因式分解題目|4:15|12/3開放|
-|CH2-5|費馬因式分解解題|7:40|12/3開放|
-|CH2-6|SmoothPrime講解+解題|17:04|12/3開放|
-|CH2-7|SmoothPrime(補充)|2:55|12/3開放|
-|CH2-8|E的問題+Yang2講解|15:1|12/3開放|
-|CH2-9|Common Modulus講解|5:49|12/3開放|
-|CH2-10|Common Modulus解題|6:49|12/3開放|
-|CH2-11|CRT講解+題目講解|9:51|12/3開放|
-|CH2-12|CRT解題|2:37|12/3開放|
-|CH3-1|Hash|16:49|12/3開放|
-|CH3-2|Hash解題|6:2|12/3開放|
-|CH3-3|LEA+題目講解|17:19|12/3開放|
-|CH3-4|LEA ATTACK解題|9:39|12/3開放|
+|Ch0|Introduction|14:49|https://youtu.be/oC7kyhRXCg8|
+|CH1-1|BlockCipher|28:19|https://youtu.be/HkXH1h0BfLY|
+|CH1-2|LAB CBC題目講解|5:41|https://youtu.be/eUYaCQItnxs|
+|CH1-3|LAB CBC解題|12:46|https://youtu.be/oCGUv5oxPW0|
+|CH1-4|StreamCipher|18:17|https://youtu.be/GwmNdReGnUY|
+|CH1-5|LAB題目講解|3:53|https://youtu.be/ZSNSNggsEnc|
+|CH1-6|LAB OWO解題流程|11:33|https://youtu.be/du3B6bEz8KM|
+|CH2-1|非對稱式加密|56:53|https://youtu.be/x4gCXUXRMN4|
+|CH2-2|非對稱式解題|13:28|https://youtu.be/PQJjp08DpN4|
+|CH2-3|RSA攻擊|12:17|https://youtu.be/cgEVFt0Komo|
+|CH2-4|費馬因式分解題目|4:15|https://youtu.be/Jwc9CubC3Y8|
+|CH2-5|費馬因式分解解題|7:40|https://youtu.be/G-AcsipmiAY|
+|CH2-6|SmoothPrime講解+解題|17:04|https://youtu.be/MYj0sgBSuL0|
+|CH2-7|SmoothPrime(補充)|2:55|https://youtu.be/tsbyLaByGBo|
+|CH2-8|E的問題+Yang2講解|15:1|https://youtu.be/lSCj8J-flrI|
+|CH2-9|Common Modulus講解|5:49|https://youtu.be/QPABrYmcTBw|
+|CH2-10|Common Modulus解題|6:49|https://youtu.be/f_RqBsioGUo|
+|CH2-11|CRT講解+題目講解|9:51|https://youtu.be/YbySok2Rkh0|
+|CH2-12|CRT解題|2:37|https://youtu.be/FI1wg5Pse_Q|
+|CH3-1|Hash|16:49|https://youtu.be/sVj_hye67jc|
+|CH3-2|Hash解題|6:2|https://youtu.be/fQ_IseiBrDg|
+|CH3-3|LEA+題目講解|17:19|https://youtu.be/BBqVQyBMG5I|
+|CH3-4|LEA ATTACK解題|9:39|https://youtu.be/-1YLw2o1GCQ|
 
 
 # 線上簽到(*務必簽到)
