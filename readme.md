@@ -54,9 +54,9 @@
 ```
 |CTF平台|連結|
 |:----:|:------:|
-|CRYPTO-North-CTF|http://140.110.112.213|
-|CRYPTO-Middle-CTF|http://140.110.112.217|
-|CRYPTO-South-CTF|http://140.110.112.219|
+|CRYPTO-North-CTF|[平台連結](http://140.110.112.213)|
+|CRYPTO-Middle-CTF|[平台連結](http://140.110.112.217)|
+|CRYPTO-South-CTF|[平台連結](http://140.110.112.219)|
 
 
 # 課程簡報下載[12/5 17:00將刪除連結]
