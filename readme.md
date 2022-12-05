@@ -62,7 +62,7 @@
 # 課程簡報下載[12/5 17:00將刪除連結]
 |課程時段|連結|
 |:----:|:------:|
-|上午|[下載]()|
+|上午|[下載](https://github.com/MyFirstSecurity2020/MyfirstCryptoX2022/blob/main/%E7%8F%BE%E4%BB%A3%E5%AF%86%E7%A2%BC%E5%8F%8A%E5%85%B6%E7%A0%B4%E5%AF%86%E5%88%86%E6%9E%90%E8%AA%B2%E7%A8%8B%E7%B0%A1%E5%A0%B1-%E4%B8%8A%E5%8D%88.pdf)|
 |下午|[下載](https://github.com/MyFirstSecurity2020/MyfirstCryptoX2022/blob/main/%E7%8F%BE%E4%BB%A3%E5%AF%86%E7%A2%BC%E5%8F%8A%E5%85%B6%E7%A0%B4%E5%AF%86%E5%88%86%E6%9E%90%E8%AA%B2%E7%A8%8B%E7%B0%A1%E5%A0%B1-%E4%B8%8B%E5%8D%88.pdf)|
 
 
