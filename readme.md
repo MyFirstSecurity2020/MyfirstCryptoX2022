@@ -121,7 +121,7 @@ https://www.youtube.com/watch?v=dU00xYH3i3E
 
 # [12月17日(六)13:00線上簽到與難題解說與Q&A直播](https://meet.google.com/wgb-ynsk-khe)
 ```
-(1)請學員至[簽到表](https://reurl.cc/QW5NE2)簽到，謝謝
+(1)請學員至[簽到表](https://reurl.cc/QW5NE2)簽到，謝謝。
 (2)12:50開放進入會議室。
 (3)會議連結：https://meet.google.com/wgb-ynsk-khe。 
 ```
