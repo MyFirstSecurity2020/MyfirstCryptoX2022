@@ -43,7 +43,7 @@
 # [課程問題提問表單](https://forms.gle/6o4VciDniXnuPj1B8)
 ```
 學員對課程上或解題上有任何問題的可以在表單上提問直播時講師會解答
-[提問表單連結](https://forms.gle/6o4VciDniXnuPj1B8)
+提問表單：https://forms.gle/6o4VciDniXnuPj1B8
 ```
 
 
